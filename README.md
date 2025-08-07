@@ -31,14 +31,23 @@ Model Evaluation using Accuracy, F1-score, and Validation Loss
 📁 Project Structure
 Step	Description
 Step 1	Introduction to BERT and problem overview
+
 Step 2	Exploratory Data Analysis & Preprocessing
+
 Step 3	Training and validation data split
+
 Step 4	Load BERT Tokenizer and encode text
+
 Step 5	Load pretrained BERT with a custom classifier layer
+
 Step 6	Prepare DataLoaders for model training
+
 Step 7	Set up AdamW Optimizer and Learning Rate Scheduler
+
 Step 8	Define custom metrics: Accuracy, F1-score
+
 Step 9	Create training and evaluation loop
+
 Step 10	Save and reload the trained model
 
 🚀 Highlights
@@ -53,6 +62,7 @@ Optimized using AdamW optimizer and a learning rate scheduler
 Final model achieved strong accuracy and F1-score on multi-class sentiment tasks
 
 📊 Output
+
 A trained PyTorch-based sentiment classification model
 
 Performance metrics visualization (loss curves, classification report)
@@ -60,12 +70,17 @@ Performance metrics visualization (loss curves, classification report)
 Saved model checkpoint for future inference
 
 📌 Instructor
+
 Dr. Ryan Ahmed — Coursera Guided Project
 
 📄 Certificate
+
 ✔️ Shareable Certificate Available
+
 ✔️ Add to your LinkedIn Profile
 
 👨‍💻 Author
+
 Naman Dwivedi
+
 Aspiring AI/ML Engineer | Data Scientist
